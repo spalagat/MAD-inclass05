@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Main Activity</string>
+    <string name="Go_button">Go</string>
+    <string name="Loading">Loading...</string>
+</resources>
